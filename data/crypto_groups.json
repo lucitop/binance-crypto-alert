@@ -1,0 +1,7 @@
+{
+    "LargeCap": ["BTCUSDT", "ETHUSDT","BNBUSDT", "XRPUSDT"],
+    "MidCap": ["DOTUSDT", "LINKUSDT", "AVAXUSDT"],
+    "Stablecoins": ["USDTDAI", "USDCUSDT", "TUSDUSDT"],
+    "DeFi": ["AAVEUSDT", "COMPUSDT", "UNIUSDT", "ADAUSDT"]
+    
+  }  
