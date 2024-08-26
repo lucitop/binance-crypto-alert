@@ -10,14 +10,14 @@
 - **Reset Interval Option:** Option to reset the percentage change calculations at regular intervals.
 
 ## Setup
-**API Keys:** Create a .env file in the root directory and add your Binance API and secret keys:
+**API Keys:** Create a .env file (or modify the .env.example) in the root directory and add your Binance API and secret keys:
 ```
 BINANCE_API_KEY=your_api_key
 BINANCE_API_SECRET=your_api_secret
 PUSHBULLET_API_KEY=your_pushbullet_api_key
 ```
 
-**Cryptocurrency Groups:** Modify the crypto_groups.json in the data folder to include the cryptocurrencies you want to monitor.
+**Cryptocurrency Groups:** Modify the crypto_groups.json in the data folder to include the cryptocurrencies you want to monitor. You can create, delete and modify the groups. Also, if you want to track all the groups you can simply write 'all' when asked.
 
 ## Usage
 **Run the application:**
